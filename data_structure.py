@@ -23,12 +23,13 @@ class VideoHistory:
     
     def watch_video(self,video_id):
         '''功能:累加觀看紀錄'''
-        if video_id in self.history:
+        if video_id in self.lookup:
             self.history.remove(video_id)
-            self.lookup.remove(video_id)
-        if len(self.history) >= self.capacity:
+
+        elif len(self.history) >= self.capacity:
             oldest = self.history.popleft()
             self.lookup.remove(oldest)
+        
         self.history.append(video_id)
         self.lookup.add(video_id)
 
