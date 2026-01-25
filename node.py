@@ -22,3 +22,17 @@ class VideoTracker:
             new_node.next = self.head
             self.head.prev = new_node
             self.head = new_node
+    
+    def pin_top(self, video_id):
+        """移動到最新紀錄"""
+        if video_id not in self.lookup: return
+        node = self.lookup[video_id]
+        if node is self.head: return
+        if node.prev: node.prev.next = node.next
+        if node.next: node.next.prev = node.prev
+        else: self.tail = node.prev
+
+        node.next = self.head
+        node.prev = None
+        if self.head: self.head.prev = node
+        self.head = node
