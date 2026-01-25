@@ -13,6 +13,7 @@ class VideoTracker:
         self.tail = None
     
     def add_new(self, video_id):
+        """增加新的紀錄"""
         new_node = Node(video_id)
         self.lookup[video_id] = new_node
         if not self.head:
