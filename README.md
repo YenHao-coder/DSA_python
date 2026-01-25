@@ -10,3 +10,10 @@
 ### 2. Queue (FIFO)
 - **應用場景**: 廣度優先搜尋 (BFS)、任務調度、緩存處理。
 - **複雜度**: Enqueue O(1) / Dequeue O(1) (使用 `collections.deque`)。
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Math
+|  |
+| ------- |
+| [2235-add-two-integers](https://github.com/YenHao-coder/DSA_python/tree/master/2235-add-two-integers) |
+<!---LeetCode Topics End-->
