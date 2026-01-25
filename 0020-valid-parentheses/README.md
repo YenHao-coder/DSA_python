@@ -1,6 +1,7 @@
 <h2><a href="https://leetcode.com/problems/valid-parentheses">20. Valid Parentheses</a></h2><h3>Easy</h3><hr><p>Given a string <code>s</code> containing just the characters <code>&#39;(&#39;</code>, <code>&#39;)&#39;</code>, <code>&#39;{&#39;</code>, <code>&#39;}&#39;</code>, <code>&#39;[&#39;</code> and <code>&#39;]&#39;</code>, determine if the input string is valid.</p>
 
 <p>An input string is valid if:</p>
+<p>第 20 題特徵是括號必須對稱且後開先關，所以我選用 Stack</p>
 
 <ol>
 	<li>Open brackets must be closed by the same type of brackets.</li>
