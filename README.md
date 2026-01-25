@@ -16,4 +16,12 @@
 |  |
 | ------- |
 | [2235-add-two-integers](https://github.com/YenHao-coder/DSA_python/tree/master/2235-add-two-integers) |
+## String
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/YenHao-coder/DSA_python/tree/master/0020-valid-parentheses) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/YenHao-coder/DSA_python/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
