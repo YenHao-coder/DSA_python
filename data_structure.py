@@ -38,6 +38,7 @@ class VideoHistory:
     def read(self):
         """顯示紀錄"""
         print(f"目前有{len(self.history)}條紀錄: {list(self.history)}")
+        
 yt = VideoHistory(3)
 yt.watch_video("A")
 yt.watch_video("B")
