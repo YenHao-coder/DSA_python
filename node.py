@@ -1,12 +1,12 @@
 class Node:
-    """節點練習"""
+    """節點(實例)"""
     def __init__(self, video_id):
         self.prev = None
         self.next = None
         self.video_id = video_id
 
 class VideoTracker:
-    """影片追蹤"""
+    """影片追蹤器"""
     def __init__(self):
         self.lookup = {}
         self.head = None
