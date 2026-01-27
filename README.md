@@ -24,4 +24,20 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/YenHao-coder/DSA_python/tree/master/0020-valid-parentheses) |
+## Hash Table
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/YenHao-coder/DSA_python/tree/master/0146-lru-cache) |
+## Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/YenHao-coder/DSA_python/tree/master/0146-lru-cache) |
+## Design
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/YenHao-coder/DSA_python/tree/master/0146-lru-cache) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/YenHao-coder/DSA_python/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
