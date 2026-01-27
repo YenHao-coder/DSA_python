@@ -1,5 +1,5 @@
 <h2><a href="https://leetcode.com/problems/lru-cache">146. LRU Cache</a></h2><h3>Medium</h3><hr><p>Design a data structure that follows the constraints of a <strong><a href="https://en.wikipedia.org/wiki/Cache_replacement_policies#LRU" target="_blank">Least Recently Used (LRU) cache</a></strong>.</p>
-
+<p>LRU 演算法會追蹤每一次點擊紀錄，動態更新內部排序，超過寫入容量時會替代最舊的 Node。LRUCache 包含頭部、尾部、觸擊紀錄與容量大小，寫入 Node 的方法需考慮觸擊紀錄調整與容量已滿的最舊取代</p>
 <p>Implement the <code>LRUCache</code> class:</p>
 
 <ul>
