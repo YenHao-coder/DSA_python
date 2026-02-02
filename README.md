@@ -28,6 +28,7 @@
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/YenHao-coder/DSA_python/tree/master/0146-lru-cache) |
+| [0347-top-k-frequent-elements](https://github.com/YenHao-coder/DSA_python/tree/master/0347-top-k-frequent-elements) |
 ## Linked List
 |  |
 | ------- |
@@ -40,4 +41,32 @@
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/YenHao-coder/DSA_python/tree/master/0146-lru-cache) |
+## Array
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/YenHao-coder/DSA_python/tree/master/0347-top-k-frequent-elements) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/YenHao-coder/DSA_python/tree/master/0347-top-k-frequent-elements) |
+## Sorting
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/YenHao-coder/DSA_python/tree/master/0347-top-k-frequent-elements) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/YenHao-coder/DSA_python/tree/master/0347-top-k-frequent-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/YenHao-coder/DSA_python/tree/master/0347-top-k-frequent-elements) |
+## Counting
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/YenHao-coder/DSA_python/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/YenHao-coder/DSA_python/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
