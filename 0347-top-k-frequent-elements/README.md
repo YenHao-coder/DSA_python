@@ -1,5 +1,13 @@
 <h2><a href="https://leetcode.com/problems/top-k-frequent-elements">347. Top K Frequent Elements</a></h2><h3>Medium</h3><hr><p>Given an integer array <code>nums</code> and an integer <code>k</code>, return <em>the</em> <code>k</code> <em>most frequent elements</em>. You may return the answer in <strong>any order</strong>.</p>
 
+<p>穩健性檢查:</p>
+
+<ul>
+	<li>空陣列輸入: 非陣列條件排除</li>
+	<li>k值超過陣列大小: 取出 k值和 count大小之間最小值避免錯誤</li>
+	<li>依靠 heapq 的計算獲具體除外在相同頻率的元素中</li>
+</ul>
+
 <p>&nbsp;</p>
 <p><strong class="example">Example 1:</strong></p>
 
