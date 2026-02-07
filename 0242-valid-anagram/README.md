@@ -1,5 +1,5 @@
 <h2><a href="https://leetcode.com/problems/valid-anagram">242. Valid Anagram</a></h2><h3>Easy</h3><hr><p>Given two strings <code>s</code> and <code>t</code>, return <code>true</code> if <code>t</code> is an <span data-keyword="anagram">anagram</span> of <code>s</code>, and <code>false</code> otherwise.</p>
-
+<p>驗證是否為異位字，可應用於判斷老闆的 Line 訊息是否包含足夠多的負面/壓力關鍵字，決定是否切換到高壓模式</p>
 <p>&nbsp;</p>
 <p><strong class="example">Example 1:</strong></p>
 
