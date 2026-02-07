@@ -20,6 +20,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/YenHao-coder/DSA_python/tree/master/0020-valid-parentheses) |
+| [0242-valid-anagram](https://github.com/YenHao-coder/DSA_python/tree/master/0242-valid-anagram) |
 ## Stack
 |  |
 | ------- |
@@ -28,6 +29,7 @@
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/YenHao-coder/DSA_python/tree/master/0146-lru-cache) |
+| [0242-valid-anagram](https://github.com/YenHao-coder/DSA_python/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/YenHao-coder/DSA_python/tree/master/0347-top-k-frequent-elements) |
 ## Linked List
 |  |
@@ -52,6 +54,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/YenHao-coder/DSA_python/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/YenHao-coder/DSA_python/tree/master/0347-top-k-frequent-elements) |
 ## Heap (Priority Queue)
 |  |
