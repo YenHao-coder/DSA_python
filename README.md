@@ -50,6 +50,7 @@
 ## Array
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/YenHao-coder/DSA_python/tree/master/0056-merge-intervals) |
 | [0215-kth-largest-element-in-an-array](https://github.com/YenHao-coder/DSA_python/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/YenHao-coder/DSA_python/tree/master/0347-top-k-frequent-elements) |
 | [0706-design-hashmap](https://github.com/YenHao-coder/DSA_python/tree/master/0706-design-hashmap) |
@@ -61,6 +62,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/YenHao-coder/DSA_python/tree/master/0056-merge-intervals) |
 | [0215-kth-largest-element-in-an-array](https://github.com/YenHao-coder/DSA_python/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/YenHao-coder/DSA_python/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/YenHao-coder/DSA_python/tree/master/0347-top-k-frequent-elements) |
