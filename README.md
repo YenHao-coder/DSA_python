@@ -31,14 +31,17 @@
 | [0146-lru-cache](https://github.com/YenHao-coder/DSA_python/tree/master/0146-lru-cache) |
 | [0242-valid-anagram](https://github.com/YenHao-coder/DSA_python/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/YenHao-coder/DSA_python/tree/master/0347-top-k-frequent-elements) |
+| [0706-design-hashmap](https://github.com/YenHao-coder/DSA_python/tree/master/0706-design-hashmap) |
 ## Linked List
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/YenHao-coder/DSA_python/tree/master/0146-lru-cache) |
+| [0706-design-hashmap](https://github.com/YenHao-coder/DSA_python/tree/master/0706-design-hashmap) |
 ## Design
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/YenHao-coder/DSA_python/tree/master/0146-lru-cache) |
+| [0706-design-hashmap](https://github.com/YenHao-coder/DSA_python/tree/master/0706-design-hashmap) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -48,6 +51,7 @@
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/YenHao-coder/DSA_python/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/YenHao-coder/DSA_python/tree/master/0347-top-k-frequent-elements) |
+| [0706-design-hashmap](https://github.com/YenHao-coder/DSA_python/tree/master/0706-design-hashmap) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -77,4 +81,8 @@
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/YenHao-coder/DSA_python/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/YenHao-coder/DSA_python/tree/master/0347-top-k-frequent-elements) |
+## Hash Function
+|  |
+| ------- |
+| [0706-design-hashmap](https://github.com/YenHao-coder/DSA_python/tree/master/0706-design-hashmap) |
 <!---LeetCode Topics End-->
