@@ -1,5 +1,7 @@
 from collections import deque
 
+# region --- 資料結構(start) ---
+
 """Stack 實作 (list)"""
 stack = []
 stack.append("Page_A")
@@ -14,8 +16,12 @@ queue.append("Customer_2")
 first_item = queue.popleft()
 print(f"Queue Dequeue: {first_item}")
 
+# endregion --- 資料結構(end) ---
+
+# region --- 類別定義(start) ---
+
 class VideoHistory:
-    '''觀看紀錄設計'''
+    """觀看紀錄設計"""
     def __init__(self,capacity=10):
         self.capacity = capacity
         self.history = deque()
@@ -38,6 +44,8 @@ class VideoHistory:
     def read(self):
         """顯示紀錄"""
         print(f"目前有{len(self.history)}條紀錄: {list(self.history)}")
+
+# endregion --- 類別定義(end) ---
 
 yt = VideoHistory(3)
 yt.watch_video("A")
